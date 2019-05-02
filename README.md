@@ -39,12 +39,12 @@ Create production build using this command
 
 <br>
 
-### npm run start-webpack
+# npm run start-webpack
 
 Run production build in local
 
 
-### .babelrc file
+# .babelrc file
 create babelrc file and add below code
 <br>
 ```python
@@ -56,7 +56,7 @@ create babelrc file and add below code
 ```
 
 <br>
-### .env file
+# .env file
 
 add below code
 <br>
